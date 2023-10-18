@@ -1,0 +1,19 @@
+{
+  "name": "cvsc ",
+  "date": "2018.05.25",
+  "version": "2.1.19",
+  "description": "STB based application for IPTV-devices.",
+  "author": {
+    "name": "hhj",
+    "email": "hhjdj@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "dependencies": {},
+  "config": {
+    "backgroundColor":"#eda944",
+    "icons":"icons"
+  }
+}
